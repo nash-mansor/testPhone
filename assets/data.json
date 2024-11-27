@@ -1,0 +1,164 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Greeting (التَحَيَّات)",
+      "phrases": [
+        {"id": 1, "text": "السلام عليكم", "translation": "Peace be upon you"},
+        {"id": 2, "text": "كيف حالك؟", "translation": "How are you?"},
+        {"id": 3, "text": "صباح الخير", "translation": "Good morning"},
+        {"id": 4, "text": "مساء الخير", "translation": "Good evening"},
+        {"id": 5, "text": "أهلاً وسهلاً", "translation": "Welcome"},
+        {"id": 6, "text": "مرحباً", "translation": "Hello"},
+        {"id": 7, "text": "كيف حالك اليوم؟", "translation": "How are you today?"},
+        {"id": 8, "text": "أين أنت؟", "translation": "Where are you?"},
+        {"id": 9, "text": "ما اسمك؟", "translation": "What is your name?"},
+        {"id": 10, "text": "أنا بخير", "translation": "I am fine"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Self-Introduction (التعريف بالنفس)",
+      "phrases": [
+        {"id": 1, "text": "أنا اسمي أحمد", "translation": "My name is Ahmed"},
+        {"id": 2, "text": "أين تسكن؟", "translation": "Where do you live?"},
+        {"id": 3, "text": "أنا من مصر", "translation": "I am from Egypt"},
+        {"id": 4, "text": "أعيش في القاهرة", "translation": "I live in Cairo"},
+        {"id": 5, "text": "ما هي مهنتك؟", "translation": "What is your profession?"},
+        {"id": 6, "text": "أنا طالب", "translation": "I am a student"},
+        {"id": 7, "text": "أنا أعمل كمهندس", "translation": "I work as an engineer"},
+        {"id": 8, "text": "أنت من أين؟", "translation": "Where are you from?"},
+        {"id": 9, "text": "أنا من السعودية", "translation": "I am from Saudi Arabia"},
+        {"id": 10, "text": "أنا متزوج", "translation": "I am married"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Family and Relationships (العائلة والعلاقات)",
+      "phrases": [
+        {"id": 1, "text": "أنا لدي أخ واحد", "translation": "I have one brother"},
+        {"id": 2, "text": "أختي الكبرى تعيش في لندن", "translation": "My older sister lives in London"},
+        {"id": 3, "text": "هل لديك أطفال؟", "translation": "Do you have children?"},
+        {"id": 4, "text": "زوجتي تعمل طبيبة", "translation": "My wife works as a doctor"},
+        {"id": 5, "text": "أبي يعمل مهندس", "translation": "My father works as an engineer"},
+        {"id": 6, "text": "أمي تحب الطبخ", "translation": "My mother loves cooking"},
+        {"id": 7, "text": "أخي الأصغر يحب الرياضة", "translation": "My younger brother loves sports"},
+        {"id": 8, "text": "أختي تحب القراءة", "translation": "My sister loves reading"},
+        {"id": 9, "text": "أنا متزوج ولدي طفلين", "translation": "I am married and have two children"},
+        {"id": 10, "text": "هل تحب عائلتك؟", "translation": "Do you love your family?"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Numbers and Time (الأرقام والوقت)",
+      "phrases": [
+        {"id": 1, "text": "كم الساعة؟", "translation": "What time is it?"},
+        {"id": 2, "text": "الساعة الآن الثالثة", "translation": "It’s three o'clock now"},
+        {"id": 3, "text": "أين أشتري ساعة؟", "translation": "Where can I buy a watch?"},
+        {"id": 4, "text": "اليوم هو الاثنين", "translation": "Today is Monday"},
+        {"id": 5, "text": "أريد أن أتعلم الأرقام العربية", "translation": "I want to learn Arabic numbers"},
+        {"id": 6, "text": "كم عدد أيام الأسبوع؟", "translation": "How many days are there in a week?"},
+        {"id": 7, "text": "يوم الجمعة هو يوم عطلة", "translation": "Friday is a holiday"},
+        {"id": 8, "text": "أين هو يوم الأحد؟", "translation": "Where is Sunday?"},
+        {"id": 9, "text": "أنا في العشرين من عمري", "translation": "I am twenty years old"},
+        {"id": 10, "text": "هل يمكنك إخباري بالوقت؟", "translation": "Can you tell me the time?"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Daily Routine (الروتين اليومي)",
+      "phrases": [
+        {"id": 1, "text": "أستيقظ في الساعة السابعة", "translation": "I wake up at 7 AM"},
+        {"id": 2, "text": "أذهب إلى المدرسة بعد الإفطار", "translation": "I go to school after breakfast"},
+        {"id": 3, "text": "أحب أن أقرأ قبل النوم", "translation": "I like to read before sleep"},
+        {"id": 4, "text": "أقوم بالتمارين الرياضية في الصباح", "translation": "I exercise in the morning"},
+        {"id": 5, "text": "أنا آكل الغداء في الساعة الواحدة", "translation": "I have lunch at 1 PM"},
+        {"id": 6, "text": "أذهب إلى العمل يومياً", "translation": "I go to work every day"},
+        {"id": 7, "text": "أحضر دروساً بعد الظهر", "translation": "I attend lessons in the afternoon"},
+        {"id": 8, "text": "أحب مشاهدة التلفاز في المساء", "translation": "I like watching TV in the evening"},
+        {"id": 9, "text": "أذهب إلى النوم في الساعة العاشرة", "translation": "I go to sleep at 10 PM"},
+        {"id": 10, "text": "أقوم بغسل وجهي في الصباح", "translation": "I wash my face in the morning"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Food and Drinks (الطعام والشراب)",
+      "phrases": [
+        {"id": 1, "text": "أنا أحب القهوة", "translation": "I love coffee"},
+        {"id": 2, "text": "هل تريد شاي؟", "translation": "Do you want tea?"},
+        {"id": 3, "text": "ما هو طعامك المفضل؟", "translation": "What is your favorite food?"},
+        {"id": 4, "text": "أنا لا أحب اللحوم", "translation": "I don’t like meat"},
+        {"id": 5, "text": "هل تحب الفواكه؟", "translation": "Do you like fruits?"},
+        {"id": 6, "text": "أريد أن أتناول بيتزا", "translation": "I want to eat pizza"},
+        {"id": 7, "text": "أين يوجد مطعم جيد هنا؟", "translation": "Where is a good restaurant here?"},
+        {"id": 8, "text": "كم السعر؟", "translation": "How much is it?"},
+        {"id": 9, "text": "أنا شبعان", "translation": "I am full"},
+        {"id": 10, "text": "أريد عصير برتقال", "translation": "I want orange juice"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Weather and Seasons (الطقس والفصول)",
+      "phrases": [
+        {"id": 1, "text": "اليوم الجو مشمس", "translation": "The weather is sunny today"},
+        {"id": 2, "text": "هل سيكون الجو عاصفاً غداً؟", "translation": "Will it be windy tomorrow?"},
+        {"id": 3, "text": "أنا أحب فصل الربيع", "translation": "I love spring"},
+        {"id": 4, "text": "الأمطار تتساقط الآن", "translation": "It’s raining now"},
+        {"id": 5, "text": "الطقس بارد في الشتاء", "translation": "The weather is cold in winter"},
+        {"id": 6, "text": "هل تحب الطقس الحار؟", "translation": "Do you like hot weather?"},
+        {"id": 7, "text": "في الصيف، الجو حار جداً", "translation": "In summer, the weather is very hot"},
+        {"id": 8, "text": "أحتاج إلى معطف في الشتاء", "translation": "I need a coat in winter"},
+        {"id": 9, "text": "الربيع هو أفضل فصل بالنسبة لي", "translation": "Spring is my favorite season"},
+        {"id": 10, "text": "هل الجو غائم اليوم؟", "translation": "Is it cloudy today?"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Colors and Shapes (الألوان والأشكال)",
+      "phrases": [
+        {"id": 1, "text": "السماء زرقاء", "translation": "The sky is blue"},
+        {"id": 2, "text": "أنا أحب اللون الأحمر", "translation": "I love the color red"},
+        {"id": 3, "text": "هل هذه الدائرة؟", "translation": "Is this a circle?"},
+        {"id": 4, "text": "المربع أخضر", "translation": "The square is green"},
+        {"id": 5, "text": "اللون البرتقالي هو لون جميل", "translation": "Orange is a beautiful color"},
+        {"id": 6, "text": "الوردة حمراء", "translation": "The rose is red"},
+        {"id": 7, "text": "ماذا عن اللون الأسود؟", "translation": "What about the color black?"},
+        {"id": 8, "text": "هذه مثلث", "translation": "This is a triangle"},
+        {"id": 9, "text": "الألوان تتغير في الربيع", "translation": "Colors change in spring"},
+        {"id": 10, "text": "أين أشتري قميص أزرق؟", "translation": "Where can I buy a blue shirt?"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Transportation (المواصلات)",
+      "phrases": [
+        {"id": 1, "text": "أين محطة القطار؟", "translation": "Where is the train station?"},
+        {"id": 2, "text": "هل يمكنك مساعدتي في إيجاد التاكسي؟", "translation": "Can you help me find a taxi?"},
+        {"id": 3, "text": "أريد تذكرة إلى المطار", "translation": "I want a ticket to the airport"},
+        {"id": 4, "text": "كم يبعد المحطة؟", "translation": "How far is the station?"},
+        {"id": 5, "text": "أين يوجد موقف السيارات؟", "translation": "Where is the parking lot?"},
+        {"id": 6, "text": "هل يوجد حافلة إلى المدينة؟", "translation": "Is there a bus to the city?"},
+        {"id": 7, "text": "أريد أن أذهب إلى المطار", "translation": "I want to go to the airport"},
+        {"id": 8, "text": "هل هناك قطار سريع؟", "translation": "Is there a fast train?"},
+        {"id": 9, "text": "أحتاج إلى سيارة أجرة", "translation": "I need a taxi"},
+        {"id": 10, "text": "أين يمكنني شراء تذكرة القطار؟", "translation": "Where can I buy a train ticket?"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Shopping and Money (التسوق والمال)",
+      "phrases": [
+        {"id": 1, "text": "كم السعر؟", "translation": "How much is it?"},
+        {"id": 2, "text": "هل تقبل بطاقة الائتمان؟", "translation": "Do you accept credit cards?"},
+        {"id": 3, "text": "أريد شراء هذا", "translation": "I want to buy this"},
+        {"id": 4, "text": "أين السوق؟", "translation": "Where is the market?"},
+        {"id": 5, "text": "هل هذه بخصم؟", "translation": "Is this on sale?"},
+        {"id": 6, "text": "أريد الدفع نقداً", "translation": "I want to pay in cash"},
+        {"id": 7, "text": "كم لديك من المال؟", "translation": "How much money do you have?"},
+        {"id": 8, "text": "أريد تغيير المال", "translation": "I want to exchange money"},
+        {"id": 9, "text": "أين يمكنني شراء الملابس؟", "translation": "Where can I buy clothes?"},
+        {"id": 10, "text": "هل يوجد خصم هنا؟", "translation": "Is there a discount here?"}
+      ]
+    }
+  ]
+}
